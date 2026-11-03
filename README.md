@@ -6,7 +6,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Zero-redundancy+Kimball+star+schemas;DAX+semantic+engines+tuned+for+sub-second+queries;Transforming+raw+data+lakes+into+actionable+executive+KPIs;Orchestrating+modern+pipelines+with+dbt+%26+Snowflake" alt="Core Competencies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Zero-redundancy+Kimball+star+schemas;DAX+semantic+engines+tuned+for+sub-second+queries;Transforming+raw+data+lakes+into+actionable+executive+KPIs;Orchestrating+modern+pipelines+with+dbt+%26+DuckDB" alt="Core Competencies" />
 </p>
 
 <!-- Sleek Minimal Action Links -->
@@ -45,6 +45,7 @@
   <tr>
     <td width="30%" valign="top"><b>Data Cloud & Warehousing</b></td>
     <td>
+      <img src="https://img.shields.io/badge/DuckDB-In_Process_OLAP-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
       <img src="https://img.shields.io/badge/Snowflake-Data_Cloud-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
       <img src="https://img.shields.io/badge/BigQuery-High_Concurrency-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
       <img src="https://img.shields.io/badge/dbt-Dimensional_Marts-FF694B?style=flat-square&logo=dbt&logoColor=white" />
@@ -85,27 +86,27 @@
     <tr>
       <td>
         <b>Enterprise Margin & Sales Engine</b><br/>
-        <code>Power BI</code> <code>DAX Matrix</code> <code>Snowflake</code>
+        <code>Power BI</code> <code>DAX Matrix</code> <code>Kimball</code>
       </td>
       <td>
-        Architected an enterprise-grade reporting system handling dynamic multi-currency gross margin models, customer retention cohorts, and automated leakage detection with sub-second report refresh.
+        Architected an enterprise-grade reporting system handling multi-tier discount structures, gross margin decomposition, and automated leakage detection with sub-second visual refresh.
       </td>
       <td>
-        <a href="https://github.com/Sarang74"><b>Repository ↗</b></a><br/>
-        <a href="https://app.powerbi.com/"><b>Live Report ↗</b></a>
+        <a href="https://github.com/Sarang74/enterprise-sales-dax-suite"><b>Repository ↗</b></a><br/>
+        <a href="https://github.com/Sarang74"><b>Live Demo ↗</b></a>
       </td>
     </tr>
     <tr>
       <td>
         <b>Autonomous Kimball Data Mart</b><br/>
-        <code>dbt</code> <code>Snowflake</code> <code>CI/CD</code> <code>Kimball</code>
+        <code>dbt Core</code> <code>DuckDB</code> <code>SQL</code> <code>Kimball</code>
       </td>
       <td>
-        Engineered clean dimensional marts (Facts & Conformed Dims) from bronze-tier event streams. Enforced strict lineage documentation, automated schema testing, and zero-downtime deployment.
+        Engineered a production-grade transformation pipeline converting raw e-commerce seeds into clean dimensional marts (Fact Orders & Dim Customers) with 11 automated schema tests and interactive lineage tracking.
       </td>
       <td>
-        <a href="https://github.com/Sarang74"><b>Architecture ↗</b></a><br/>
-        <a href="https://github.com/Sarang74"><b>Codebase ↗</b></a>
+        <a href="https://github.com/Sarang74/ecommerce-mds-pipeline"><b>Architecture ↗</b></a><br/>
+        <a href="https://github.com/Sarang74/ecommerce-mds-pipeline"><b>Codebase ↗</b></a>
       </td>
     </tr>
     <tr>
