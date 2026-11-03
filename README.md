@@ -11,15 +11,15 @@
 
 <!-- Sleek Minimal Action Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarang-satpute74/" target="_blank">
+  <a href="https://www.linkedin.com/in/sarang-satpute74/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
+  <a href="https://github.com/Sarang74?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Code_Repositories-0F172A?style=flat-square&logo=github&logoColor=38BDF8" alt="Repositories" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:sarangsatpute74@gmail.com">
     <img src="https://img.shields.io/badge/Get_In_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
