@@ -71,6 +71,7 @@
 </table>
 
 ---
+
 ### 📂 BENCHMARK CASE STUDIES
 
 <table>
@@ -118,7 +119,7 @@ Automated data lake & warehouse pipeline: extracts high-velocity YouTube trendin
 </td>
 <td>
 <a href="https://github.com/Sarang74/youtube-trending-pipeline"><b>Architecture ↗</b></a><br/>
-<a href="https://github.com/Sarang74/youtube-trending-pipeline"><b>Codebase ↗</b></a>
+<a href="https://sarang-youtube-pipeline.streamlit.app/" target="_blank"><b>Live Demo ↗</b></a>
 </td>
 </tr>
 <tr>
