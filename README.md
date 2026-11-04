@@ -71,57 +71,69 @@
 </table>
 
 ---
-
 ### 📂 BENCHMARK CASE STUDIES
 
 <table>
-  <thead>
-    <tr align="left">
-      <th width="32%">Initiative & Architecture</th>
-      <th width="48%">Core Engineering Problem & Solution Space</th>
-      <th width="20%">Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>Enterprise Margin & Sales Engine</b><br/>
-        <code>Power BI</code> <code>DAX Matrix</code> <code>Kimball</code>
-      </td>
-      <td>
-        Architected an enterprise-grade reporting system handling multi-tier discount structures, gross margin decomposition, and automated leakage detection with sub-second visual refresh.
-      </td>
-      <td>
-        <a href="https://github.com/Sarang74/enterprise-sales-dax-suite"><b>Repository ↗</b></a><br/>
-        <a href="https://github.com/Sarang74"><b>Live Demo ↗</b></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Autonomous Kimball Data Mart</b><br/>
-        <code>dbt Core</code> <code>DuckDB</code> <code>SQL</code> <code>Kimball</code>
-      </td>
-      <td>
-        Engineered a production-grade transformation pipeline converting raw e-commerce seeds into clean dimensional marts (Fact Orders & Dim Customers) with 11 automated schema tests and interactive lineage tracking.
-      </td>
-      <td>
-        <a href="https://github.com/Sarang74/ecommerce-mds-pipeline"><b>Architecture ↗</b></a><br/>
-        <a href="https://github.com/Sarang74/ecommerce-mds-pipeline"><b>Codebase ↗</b></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>GCP Serverless Ingestion Pipeline</b><br/>
-        <code>GCP</code> <code>BigQuery</code> <code>Python</code> <code>REST API</code>
-      </td>
-      <td>
-        Built resilient serverless connectors extracting dynamic third-party data, normalizing JSON structures, and batch-loading into partitioned BigQuery analytical tables.
-      </td>
-      <td>
-        <a href="https://github.com/Sarang74/gcpApiTraining"><b>Source Code ↗</b></a>
-      </td>
-    </tr>
-  </tbody>
+<thead>
+<tr align="left">
+<th width="32%">Initiative & Architecture</th>
+<th width="48%">Core Engineering Problem & Solution Space</th>
+<th width="20%">Access</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<b>Enterprise Margin & Sales Engine</b><br/>
+<code>Power BI</code> <code>DAX Matrix</code> <code>Kimball</code>
+</td>
+<td>
+Architected an enterprise-grade reporting system handling multi-tier discount structures, gross margin decomposition, and automated leakage detection with sub-second visual refresh.
+</td>
+<td>
+<a href="https://github.com/Sarang74/enterprise-sales-dax-suite"><b>Repository ↗</b></a><br/>
+<a href="https://github.com/Sarang74"><b>Live Demo ↗</b></a>
+</td>
+</tr>
+<tr>
+<td>
+<b>Autonomous Kimball Data Mart</b><br/>
+<code>dbt Core</code> <code>DuckDB</code> <code>SQL</code> <code>Kimball</code>
+</td>
+<td>
+Engineered a production-grade transformation pipeline converting raw e-commerce seeds into clean dimensional marts (Fact Orders & Dim Customers) with 11 automated schema tests and interactive lineage tracking.
+</td>
+<td>
+<a href="https://github.com/Sarang74/ecommerce-mds-pipeline"><b>Architecture ↗</b></a><br/>
+<a href="https://github.com/Sarang74/ecommerce-mds-pipeline"><b>Codebase ↗</b></a>
+</td>
+</tr>
+<tr>
+<td>
+<b>YouTube Trending Ingestion & Analytics Pipeline</b><br/>
+<code>Python</code> <code>YouTube API v3</code> <code>DuckDB</code> <code>Streamlit</code>
+</td>
+<td>
+Automated data lake & warehouse pipeline: extracts high-velocity YouTube trending metadata via REST API, enforces schema quality assertions, models a Kimball star schema in DuckDB, and powers an interactive Streamlit intelligence dashboard.
+</td>
+<td>
+<a href="https://github.com/Sarang74/youtube-trending-pipeline"><b>Architecture ↗</b></a><br/>
+<a href="https://github.com/Sarang74/youtube-trending-pipeline"><b>Codebase ↗</b></a>
+</td>
+</tr>
+<tr>
+<td>
+<b>GCP Serverless Ingestion Pipeline</b><br/>
+<code>GCP</code> <code>BigQuery</code> <code>Python</code> <code>REST API</code>
+</td>
+<td>
+Built resilient serverless connectors extracting dynamic third-party data, normalizing JSON structures, and batch-loading into partitioned BigQuery analytical tables.
+</td>
+<td>
+<a href="https://github.com/Sarang74/gcpApiTraining"><b>Source Code ↗</b></a>
+</td>
+</tr>
+</tbody>
 </table>
 
 ---
