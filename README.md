@@ -111,6 +111,19 @@ Engineered a production-grade transformation pipeline converting raw e-commerce 
 </tr>
 <tr>
 <td>
+<b>Autonomous Core Banking Data Platform</b><br/>
+<code>Python</code> <code>DuckDB OLAP</code> <code>Parquet</code> <code>Quarantine Gate</code>
+</td>
+<td>
+High-integrity transaction platform handling 50k records with automated quality assertion gating, row-level quarantine isolation, DuckDB SQL master table promotion, and windowed analytical audit queries.
+</td>
+<td>
+<a href="https://github.com/Sarang74/banking-data-platform"><b>Architecture ↗</b></a><br/>
+<a href="https://github.com/Sarang74/banking-data-platform"><b>Codebase ↗</b></a>
+</td>
+</tr>
+<tr>
+<td>
 <b>YouTube Trending Ingestion & Analytics Pipeline</b><br/>
 <code>Python</code> <code>YouTube API v3</code> <code>DuckDB</code> <code>Streamlit</code>
 </td>
